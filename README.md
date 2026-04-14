@@ -22,7 +22,7 @@ When a button is pressed:
 * A unique tone is played through the buzzer at its frequency rate
 * A message is printed to the Serial Monitor
 
-* ## Tools & Environment
+ ## Tools & Environment
 - Wokwi Simulator (Arduino development, circuit design, and firmware testing)
 - Arduino (C/C++ embedded programming)
 - Serial Monitor (debugging at 115200 baud)
