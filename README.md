@@ -36,7 +36,7 @@ This system demonstrates fundamental embedded concepts including GPIO control, a
 * Buzzer
 * Jumper wires
 
-* ## Design Considerations
+## Design Considerations
 - Button debouncing was considered during development to improve input reliability. Hardware-based debouncing using capacitors was initially planned; however, due to limitations within the Wokwi simulation environment, this was not implemented. Future iterations may include hardware or software debouncing techniques to enhance system stability. 
 - Future iterations may transition from polling to interrupt-driven input handling to improve efficiency and responsiveness.
 
