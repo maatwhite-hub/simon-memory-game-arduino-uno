@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Simon-style memory game prototype built using an Arduino Uno. It demonstrates the integration of hardware and firmware to create an interactive embedded system using push buttons, LEDs, and a buzzer.
+This project is a Simon-style memory game prototype built using an Arduino Uno. It serves as a foundational embedded systems implementation, focusing on GPIO interfacing, active-low input design, and UART-based debugging.
 
 ## Features
 
