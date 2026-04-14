@@ -54,4 +54,4 @@ This project was developed as part of an embedded systems course. The implementa
 
 ## Circuit Diagram
 
-![Circuit Diagram](images/circuit.png)
+![Circuit Diagram](circuit_design_simon.png)
